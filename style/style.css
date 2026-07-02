@@ -1,0 +1,21 @@
+.merriweather-sans-<uniquifier> {
+  font-family: "Merriweather Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: Merriweather Sans;
+    font-size: 3rem;
+}
+
+#menu {
+    align-content: center;
+    border: 2px solid black;
+}
